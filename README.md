@@ -17,3 +17,5 @@ Then the flip - flop acts as a Toggle switch. The next output state is changed w
 The T flip-flop is designed bypassing the AND gate's output as input to the NOR gate of the SR flip-flop. The inputs of the "AND" gates, the present output state Q, and its complement Q' are sent back to each AND gate.
 
 The toggle input is passed to the AND gates as input. These gates are connected to the Clock (CLK) signal. In the T flip-flop, a pulse train of little triggers is passed as the toggle input, which changes the flip flop's output state
+
+![de skill ass](https://user-images.githubusercontent.com/123359969/215315098-6562691c-a57a-4d4a-8490-43ade27f7cc7.png)
