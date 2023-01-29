@@ -1,4 +1,6 @@
 # skill-ass-1-decade-synchronous-upcounter-with-t-flip-flop.
+# TITLE:
+DECADE SYNCHRONOUS UPCOUNTER WITH T FLIP FLOP.
 # AIM:
 
 To implement the given function decade synchronous upcounter with t flip flop and to verify its operation in Quartus using Verilog programming.
