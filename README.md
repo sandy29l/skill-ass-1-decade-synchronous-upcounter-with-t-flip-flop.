@@ -18,4 +18,12 @@ The T flip-flop is designed bypassing the AND gate's output as input to the NOR 
 
 The toggle input is passed to the AND gates as input. These gates are connected to the Clock (CLK) signal. In the T flip-flop, a pulse train of little triggers is passed as the toggle input, which changes the flip flop's output state
 
+# TRUTH TABLE
+
+![TRUTH TABLE](https://user-images.githubusercontent.com/123359969/215315342-18abdfda-0cbd-4241-b071-db2c9c9b0fc1.png)
+
+the above table is the truth table for decade synchronous upcounder using t flip flop.
+
+# logic diagram
+
 ![de skill ass](https://user-images.githubusercontent.com/123359969/215315098-6562691c-a57a-4d4a-8490-43ade27f7cc7.png)
