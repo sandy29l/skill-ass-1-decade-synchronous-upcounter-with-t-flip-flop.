@@ -24,6 +24,12 @@ The toggle input is passed to the AND gates as input. These gates are connected 
 
 the above table is the truth table for decade synchronous upcounder using t flip flop.
 
-# logic diagram
+# LOGIC DIAGRAM
 
 ![de skill ass](https://user-images.githubusercontent.com/123359969/215315098-6562691c-a57a-4d4a-8490-43ade27f7cc7.png)
+
+# EXPLANATION
+
+To design a synchronous up counter, first we need to know what number of flip flops are required. we can find out by considering a number of bits mentioned in the question. So, in this, we required to make 4 bit counter so the number of flip flops required is 4 [2n where n is a number of bits].
+After that, we need to construct a state table with excitation table.
+Note: To construct excitation table from state table you should know the excitation table of respective flip flop, in this case, it is T flip flop.
